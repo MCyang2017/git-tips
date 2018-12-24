@@ -544,9 +544,4 @@ git reset <file-name>
 git push -f <remote-name> <branch-name>
 ```
 
-
-## 联系我
-- 博客园：[削微寒](http://www.cnblogs.com/xueweihan/)
-- 或者直接提Pr，Issues
-
 **[⬆ 返回顶部](#目录)**
